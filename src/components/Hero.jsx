@@ -17,7 +17,7 @@ const Hero = () => {
         Simplify your reading with Summarize, an 
         open-source article Summarizer that transforms lengthy 
         articles into clear and 
-        concise summaries 
+        concise summaries!!
       </h2>
     </header>
   )
